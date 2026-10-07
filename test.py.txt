@@ -1,17 +1,5 @@
 print "Hello World !!!"
 Khoong cos gi ca
 
-
-Àn neong hang sê yoo 
-=======
-
-#Khoong cos gi ca
-
-a = 9
-b = 8
-
-print(f"a + b = {a + b}")
-
-if a > b:
-	print('a lon hon b')
+Dang o nhanh moi la nhanh database
 
