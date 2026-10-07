@@ -2,11 +2,8 @@ print "Hello World !!!"
 
 a = 9
 b = 8
-<<<<<<< HEAD
+
 print(f"a + b = {a + b}")
 
-=======
-
-
-EM chào thầy Em là 1 người bí ẩn !
->>>>>>> 47a482def548be7da0ffdfe7feca4e9f431843c5
+if a > b:
+	print('a lon hon b')
