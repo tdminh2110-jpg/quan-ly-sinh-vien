@@ -1,5 +1,7 @@
 print "Hello World !!!"
 
+#Khoong cos gi ca
+
 a = 9
 b = 8
 
