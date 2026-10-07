@@ -1,4 +1,18 @@
 print "Hello World !!!"
+Khoong cos gi ca
+
+
+Àn neong hang sê yoo 
+=======
+
+#Khoong cos gi ca
+
 a = 9
 b = 8
-my name is minh
+
+print(f"a + b = {a + b}")
+
+if a > b:
+	print('a lon hon b')
+
+xin chao
