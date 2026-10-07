@@ -1,5 +1,8 @@
-print "Hello World !!!"
-Khoong cos gi ca
+import numpy as np
+import pandas as pd
 
-Dang o nhanh moi la nhanh database
+
+print "Hello World !!!"
+
+
 
